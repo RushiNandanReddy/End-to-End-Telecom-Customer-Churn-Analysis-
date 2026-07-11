@@ -7,7 +7,8 @@
 )
 
 ### Churn by Demographics
-![Churn by Demographics](images/Screenshot%202026-07-11%20133059.png)
+![Churn by Demographics](<img width="1920" height="1080" alt="Screenshot 2026-07-11 133059" src="https://github.com/user-attachments/assets/c75d3607-2e71-4e84-b7d7-3b6a9a87fb4c" />
+)
 
 ### Service Analysis
 ![Service Analysis](images/Screenshot%202026-07-11%20133130.png)
