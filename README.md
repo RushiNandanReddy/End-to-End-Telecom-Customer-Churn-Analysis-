@@ -17,10 +17,10 @@
 ![Contract Analysis](https://github.com/RushiNandanReddy/End-to-End-Telecom-Customer-Churn-Analysis-/blob/main/Screenshot%202026-07-11%20133147.png)
 
 ### Customer Tenure Analysis
-![Customer Tenure Analysis](https://github.com/RushiNandanReddy/End-to-End-Telecom-Customer-Churn-Analysis-/blob/main/Screenshot%202026-07-11%20133313.png)
+![Customer Tenure Analysis](https://github.com/RushiNandanReddy/End-to-End-Telecom-Customer-Churn-Analysis-/blob/main/Screenshot%202026-07-11%20133622.png))
 
 ### Final Business Insights
-![Business Insights](https://github.com/RushiNandanReddy/End-to-End-Telecom-Customer-Churn-Analysis-/blob/main/Screenshot%202026-07-11%20133622.png)
+![Business Insights](https://github.com/RushiNandanReddy/End-to-End-Telecom-Customer-Churn-Analysis-/blob/main/Screenshot%202026-07-11%20133313.png)
 
 ---
 
